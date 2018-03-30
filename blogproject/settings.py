@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '#*e$yphkyj^*#1s9(jwk!mo0m^zxxf9e&98ax^$&23$=1u%lio'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 ALLOWED_HOSTS=['127.0.0.1','localhost','.starocean.fun']
 
 
